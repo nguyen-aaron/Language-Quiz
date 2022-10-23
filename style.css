@@ -1,0 +1,11 @@
+.tile.is-parent {
+  border: 1px solid lightgrey;
+}
+
+.hidden-answer {
+  visibility: hidden;
+}
+
+.hidden-screen{
+  display: none;
+}
